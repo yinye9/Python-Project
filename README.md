@@ -29,7 +29,12 @@ The Car Inventory Analysis project is designed to explore and analyze key insigh
 
   # CAR INVENTORY ANALYSIS PROJECT
 
+## Table of Content
 
+- [Project Overview](#project-overview)
+- [Results](#results)
+- [Recommendation](#recommendation)
+  
   ### Project Overview 
 
 This Data Analysis Project aims to provide insight from a dataset containing details about various cars, including their make, model, color, mileage, price, and cost. The project aims to uncover trends, relationships, and key patterns within the dataset.
